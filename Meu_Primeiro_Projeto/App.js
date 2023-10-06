@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <View style={styles.container}>
         <Image
-          source={{ uri: 'https://avatars.githubusercontent.com/u/99900060?v=4' }}
+          source={{ uri: 'https://media.licdn.com/dms/image/C4D03AQGPPtsVkVG-BA/profile-displayphoto-shrink_800_800/0/1641318503100?e=2147483647&v=beta&t=8yi95YaOHO0OK0e6yOL718AqQR-hheFsKquM9kpA5Us' }}
           style={styles.image}
         />
         <Text style={styles.title}>Dados Pessoais</Text>
